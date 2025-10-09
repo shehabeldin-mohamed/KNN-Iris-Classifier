@@ -9,13 +9,13 @@ The project uses the classic **Iris dataset** for training and testing.
 
 ---
 
-## 🧠 How It Works
+## How It Works
 The algorithm calculates the Euclidean distance between data points and classifies each sample based on the **k nearest neighbors**.  
 You can easily modify the value of `k` and test accuracy using different dataset splits.
 
 ---
 
-## 🚀 How to Run
+## Installation Instructions
 
 1. **Clone the repository**
    ```bash
